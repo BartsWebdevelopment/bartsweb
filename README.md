@@ -31,4 +31,16 @@
   
 ## AFBEELDINGS FORMATEN
  * favicon 16x16px
- 
+ * hero-afbeelding:
+    genereren via foto-generator voor verschillende formaten
+    daarna afbeeldingen verkleinen tot kleinere bestandsgrootte
+    
+ * logo afbeelding aanbevolen:The normal site logo range is between 250 x 100px and 400px X 100px for a horizontal logo, and 160px X 160 px for a vertical one. There are other schools of thought that recommend smaller logo sizes (less than 100px) as the ideal.
+   --> logo afbeelding - keuze = 160 x 160 px.
+   
+## KLEUREN
+    * blue-dark: #1129A8
+    * blue-darker: #2F3A75
+    * blue-light: #0096DB
+    * orange-light: #E07B38
+    * orange-dark: #A83711

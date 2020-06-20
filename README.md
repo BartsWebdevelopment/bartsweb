@@ -18,7 +18,7 @@
  
 ### style.css file
  * perform a basic reset - normalize css
- * define standard font properties
+ * define standard font properties - html tag set **font-size** to 10px = **62.5%**. then use rem
  
  
 #STANDAARD

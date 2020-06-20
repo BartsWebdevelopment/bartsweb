@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80ae98d-cc48-4a5d-b744-7ddc862ec427" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1038.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1243.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1430.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1767.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_1021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_1151.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_448.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_624.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_783.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_1_1_910.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_480.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_4_3_538.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_4_3_708.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_4_3_851.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_609.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/barts-webdesign-hero-sectie_795.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-barts-webdesign.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -80,7 +60,7 @@
       <updated>1592505873788</updated>
       <workItem from="1592505879622" duration="1516000" />
       <workItem from="1592578941147" duration="3092000" />
-      <workItem from="1592632696898" duration="9726000" />
+      <workItem from="1592632696898" duration="13126000" />
     </task>
     <servers />
   </component>

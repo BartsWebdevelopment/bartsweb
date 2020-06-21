@@ -1,10 +1,10 @@
 {
   "name": "bartswebdesign",
   "version": "1.0.0",
-  "description": "* maak een file aan waar je de website wilt opbouwen C:\\...\\ __naam-website__ \\app\\public\\wp-content\\themes\\ __naam_thema__ * maak een Github repository aan * open de command line \t* type: echo \"# test\" >> README.md \t* type: git init \t* type: git add README.mc \t* type: git commit -m \"first commit\" \t* type: git remote add origin git@github.com:BartsWebdevelopment/naam-repository.git \t* type: git push -u origin master",
+  "description": "Bart's webdesign wordpress site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss style.css -w"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/BartsWebdevelopment/bartsweb/issues"
   },
-  "homepage": "https://github.com/BartsWebdevelopment/bartsweb#readme"
+  "homepage": "https://github.com/BartsWebdevelopment/bartsweb#readme",
+  "dependencies": {
+    "index.php": "^1.0.0",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
 }

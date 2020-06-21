@@ -1,3 +1,5 @@
+
+// COLORS
 $color-primary: #1129A8;
 $color-primary-light:#0096DB;
 $color-primary-dark: #2F3A75;
@@ -5,11 +7,20 @@ $color-primary-dark: #2F3A75;
 $color-secundary-light: #E07B38;
 $color-secundary-dark: #A83711;
 
-$color-grey-dark: #777;
-$color-grey-light: #F2F2F2;
+$color-grey-light-1: #f7f7f7;
+
+$color-grey-dark: #494949;
 $color-white: #fff;
 $color-black: #000;
+
+//GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-horizontal: 6rem;
+
 
 $hero-linear-gradient: linear-gradient(to right bottom,
         rgba($color-primary-light, 0.7),
         rgba($color-primary-dark, 0.7));
+
+$background-color-text: linear-gradient(to right, $color-primary-light, $color-primary-dark);
